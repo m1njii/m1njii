@@ -1,6 +1,6 @@
 # ¡Hola! Soy Minji 👋
 
-Soy desarrollador web y estudiante de Psicología en la UPN. Me interesa combinar el entendimiento del comportamiento humano con la creación de experiencias y soluciones digitales.
+Soy desarrollador web y estudiante de Psicología. Me interesa combinar el entendimiento del comportamiento humano con la creación de experiencias y soluciones digitales.
 
 ## 🚀 Sobre mí
 - 🎓 Estudiante de Psicología, profundizando en enfoques como el Psicoanálisis y el Conductismo.
@@ -21,4 +21,4 @@ Soy desarrollador web y estudiante de Psicología en la UPN. Me interesa combina
 </div>
 
 ## 🎮 Intereses adicionales
-Fuera del código y los textos académicos, dedico tiempo a competir en Dota 2 (siempre atento al pase de temporada) y a explorar mecánicas de magia y automatización en modpacks de Minecraft como Iron's Spells 'n Spellbooks, Ars Nouveau y FTB Stoneblock 4.
+Fuera del código y los textos académicos, dedico tiempo a explorar mecánicas de magia y automatización en modpacks de Minecraft como Mekanism, Ars Nouveau, AE2, Oritech, Create y FTB Stoneblock 4.
