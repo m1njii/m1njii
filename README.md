@@ -19,10 +19,11 @@ Es mi bitácora donde el desarrollo de software se cruza con los paradigmas clí
 - **Flujo de trabajo:** Desarrollo y arquitectura fuertemente iterado con modelos como Claude, DeepSeek y ChatGPT.
 
 ## Estadísticas
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m1njii&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de m1njii" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m1njii&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
-</div>
+
+![Estadísticas de m1njii](https://github-readme-stats.vercel.app/api?username=m1njii&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=m1njii&layout=compact&theme=tokyonight&hide_border=true)
+
 
 ## Fuera del IDE
 Incluso cuando me desconecto, sigo diseñando sistemas. Dedico tiempo a automatizar procesos complejos, gestionar recursos y estructurar redes de energía o magia en modpacks técnicos de Minecraft (FTB Stoneblock 4, Ars Nouveau, AE2, Create).
