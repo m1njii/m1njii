@@ -1,24 +1,28 @@
-# ¡Hola! Soy Minji 👋
+# Minji
 
-Soy desarrollador web y estudiante de Psicología. Me interesa combinar el entendimiento del comportamiento humano con la creación de experiencias y soluciones digitales.
+> El código estructura cómo procesa la máquina. La psicología entiende cómo reacciona el usuario.
 
-## 🚀 Sobre mí
-- 🎓 Estudiante de Psicología, profundizando en enfoques como el Psicoanálisis y el Conductismo.
-- 💻 Desarrollador web enfocado en interfaces rápidas y funcionales.
-- 🏗️ Actualmente construyendo la plataforma para la agencia digital **KAMASQA** y desarrollando el sitio web/catálogo para **CookiesByMinny** usando Astro.
-- 📅 Organizo todos mis flujos de trabajo, estudios y turnos en Tambo a través de Notion.
+Soy desarrollador web y psicólogo en formación. No veo estas disciplinas como caminos separados, sino como un mismo sistema: construyo interfaces rápidas y modulares, diseñadas directamente desde la lógica del comportamiento humano, el psicoanálisis y el conductismo.
 
-## 🛠️ Stack Tecnológico y Herramientas
-- **Web & Frontend:** HTML, CSS, JavaScript, Astro, WordPress.
-- **Backend & Lenguajes adicionales:** Python, C#, Node.js.
-- **Control de versiones & Entorno:** Git, npm, Windows.
-- **Flujo de trabajo con IA:** Integración constante con herramientas como Claude y ChatGPT para optimizar código y redacción.
+## Sintaxis Minji
+Escribo y documento esta intersección en **[sintaxisminji.blog](https://sintaxisminji.blog)**. 
+Es mi bitácora donde el desarrollo de software se cruza con los paradigmas clínicos. Analizo patrones de diseño, tecnología y la mente detrás de la pantalla (y aplico mis propias reglas de SEO desde el título).
 
-## 📈 Estadísticas de GitHub
+## Qué estoy construyendo ahora
+- **CookiesByMinny:** Desarrollando su ecosistema web y catálogo digital, priorizando el rendimiento y Server-Side Rendering con Astro.
+- **Sistemas de vida:** Mi rutina entera corre sobre Notion. Ahí estructuro mi "segundo cerebro", balanceando mis proyectos, lecturas clínicas y la gestión de mis turnos en Tambo.
+
+## Stack & Herramientas
+- **Frontend:** Astro, JavaScript, HTML, CSS, WordPress.
+- **Backend & Scripts:** Python, C#, Node.js.
+- **Entorno:** Git, npm, VS Code (Windows).
+- **Flujo de trabajo:** Desarrollo y arquitectura fuertemente iterado con modelos como Claude, DeepSeek y ChatGPT.
+
+## Estadísticas
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=m1njii&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de m1njii" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m1njii&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
 </div>
 
-## 🎮 Intereses adicionales
-Fuera del código y los textos académicos, dedico tiempo a explorar mecánicas de magia y automatización en modpacks de Minecraft como Mekanism, Ars Nouveau, AE2, Oritech, Create y FTB Stoneblock 4.
+## Fuera del IDE
+Incluso cuando me desconecto, sigo diseñando sistemas. Dedico tiempo a automatizar procesos complejos, gestionar recursos y estructurar redes de energía o magia en modpacks técnicos de Minecraft (FTB Stoneblock 4, Ars Nouveau, AE2, Create).
